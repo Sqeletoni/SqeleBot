@@ -1,0 +1,2 @@
+# SqeleBot
+Twitch chatBot
